@@ -47,7 +47,7 @@ The light of your torch glints off of the thousands of coins in the room.
 The light of your torch reveals a cliff at the edge of your feet 
 There is a long rope that hangs from the top of the cave and a wooden ladder that is long enough to reach the other side of the cave.
 + [Use the rope] -> rope_choice
-+ [Use the ladder] -> ladder_choice
+* [Use the ladder] -> ladder_choice
 -> END
 
 === rope_choice ===
